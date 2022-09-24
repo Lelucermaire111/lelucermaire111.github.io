@@ -1,10 +1,19 @@
 title: Welcome to Ensong Liu's homepage!
-author:
+author: 
   name: Ensong Liu
   email: ensongliu@pku.edu.cn
 
 #Build settings
 theme: minima
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  Lelucermaire111
+    bilibili:  Muse_0824
+
 
 plugins:
  - jekyll-feed
